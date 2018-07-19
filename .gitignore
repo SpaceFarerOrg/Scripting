@@ -1,0 +1,16 @@
+
+*.pdb
+
+*.exe
+
+*.db
+
+*.tlog
+
+*.log
+
+*.idb
+
+*.obj
+
+*.user
